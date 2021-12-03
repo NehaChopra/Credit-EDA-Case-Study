@@ -1,7 +1,7 @@
 # Credit-EDA-Case-Study
 Credit EDA Case Study - Loan defaulter Prediction
 
-**Business Understanding **
+**Business Understanding**
 
 
 

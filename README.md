@@ -1,7 +1,7 @@
 # Credit-EDA-Case-Study
 Credit EDA Case Study - Loan defaulter Prediction
 
-Business Understanding : 
+**Business Understanding **
 
 
 
@@ -35,7 +35,7 @@ Unused offer: Loan has been cancelled by the client but on different stages of t
 
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
-Business Objectives : 
+**Business Objectives**
 
 
 
